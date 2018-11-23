@@ -1,0 +1,177 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="jwfh.ca,jwfh.github.io" resolutions="1x" timestamp="1542987305794">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-master.css" crc="4263556068" ref="calligraphy:résumé:contact:index:about:design:photography"/>
+    <file name="nomq_preview_master_a-master.css" crc="379873220" ref="calligraphy:résumé:contact:index:about:design:photography"/>
+    <file name="calligraphy.css" crc="3998916298" ref="calligraphy"/>
+    <file name="nomq_calligraphy.css" crc="3867310736" ref="calligraphy"/>
+    <file name="r_sum_.css" crc="3959108071" ref="résumé"/>
+    <file name="nomq_r_sum_.css" crc="492619204" ref="résumé"/>
+    <file name="contact.css" crc="507368298" ref="contact"/>
+    <file name="nomq_contact.css" crc="4229396130" ref="contact"/>
+    <file name="index.css" crc="3998916298" ref="index"/>
+    <file name="nomq_index.css" crc="3867310736" ref="index"/>
+    <file name="about.css" crc="3998916298" ref="about"/>
+    <file name="nomq_about.css" crc="3867310736" ref="about"/>
+    <file name="design.css" crc="3998916298" ref="design"/>
+    <file name="nomq_design.css" crc="3867310736" ref="design"/>
+    <file name="photography.css" crc="234971907" ref="photography"/>
+    <file name="nomq_photography.css" crc="242199173" ref="photography"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:photography:calligraphy:contact:design:résumé:about"/>
+    <file name="museutils.js" crc="340535759" ref="index:photography:calligraphy:contact:design:résumé:about"/>
+    <file name="whatinput.js" crc="86476730" ref="index:photography:calligraphy:contact:design:résumé:about"/>
+    <file name="museconfig.js" crc="310584261" ref="index:photography:calligraphy:contact:design:résumé:about"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="index:photography:calligraphy:contact:design:résumé:about"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:photography:calligraphy:contact:design:résumé:about"/>
+    <file name="webpro.js" crc="4059564322" ref="index:photography:calligraphy:contact:design:résumé:about"/>
+    <file name="musewpdisclosure.js" crc="3883500470" ref="index:photography:calligraphy:contact:design:résumé:about"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:photography:calligraphy:contact:design:résumé:about"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="index:photography:calligraphy:contact:design:résumé:about"/>
+    <file name="require.js" crc="7928878" ref="index:photography:calligraphy:contact:design:résumé:about"/>
+    <file name="form_check.php" crc="4020933626" ref="contact"/>
+    <file name="form_throttle.php" crc="4259590256" ref="contact"/>
+    <file name="form_process.php" crc="37464564" ref="contact"/>
+    <file name="form-u508.php" crc="416338914" ref="contact"/>
+  </folder>
+  <folder name="images">
+    <file name="a-master-favicon.ico" crc="294618463" ref="index"/>
+    <file name="logo-blue.png" crc="535440778" seo="true" ref="index:photography:calligraphy:contact:design:résumé:about">
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="calligraphy" alt=""/>
+      <caption webpage="calligraphy" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="design" alt=""/>
+      <caption webpage="design" alt=""/>
+      <caption webpage="résumé" alt=""/>
+      <caption webpage="résumé" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:photography:calligraphy:contact:design:résumé:about"/>
+    <file name="_dsc0075.jpg" crc="4042723093" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="dsc_0016.jpg" crc="3991184158" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="untitled_panorama1.jpg" crc="3911706143" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="untitled_hdr2.jpg" crc="267979501" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="hdr1.jpg" crc="511374711" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="_dsc1150.jpg" crc="4044056420" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="_dsc0836_edit2.jpg" crc="3898592925" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="_dsc0075290x193.jpg" crc="79094383" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="dsc_0016290x193.jpg" crc="4265609629" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="untitled_panorama1290x122.jpg" crc="386707955" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="untitled_hdr2290x191.jpg" crc="3994054003" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="hdr1290x193.jpg" crc="192971525" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="_dsc1150290x193.jpg" crc="52985380" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="_dsc0836_edit2290x193.jpg" crc="76561126" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="ib-marks.png" crc="127044636" seo="true" ref="résumé">
+      <caption webpage="résumé" alt=""/>
+      <caption webpage="résumé" alt=""/>
+    </file>
+    <file name="mun-gpa.png" crc="19192564" seo="true" ref="résumé">
+      <caption webpage="résumé" alt=""/>
+      <caption webpage="résumé" alt=""/>
+    </file>
+    <file name="high-school-marks.png" crc="3761257540" seo="true" ref="résumé">
+      <caption webpage="résumé" alt=""/>
+      <caption webpage="résumé" alt=""/>
+    </file>
+    <file name="books.png" crc="4023854888" seo="true" ref="résumé">
+      <caption webpage="résumé" alt=""/>
+      <caption webpage="résumé" alt=""/>
+    </file>
+    <file name="sysadmin.png" crc="3953722311" seo="true" ref="résumé">
+      <caption webpage="résumé" alt=""/>
+      <caption webpage="résumé" alt=""/>
+    </file>
+    <file name="code.png" crc="3980605117" seo="true" ref="résumé">
+      <caption webpage="résumé" alt=""/>
+      <caption webpage="résumé" alt=""/>
+    </file>
+    <file name="calligraphy.png" crc="4159251537" seo="true" ref="résumé">
+      <caption webpage="résumé" alt=""/>
+      <caption webpage="résumé" alt=""/>
+    </file>
+    <file name="type-crop-u1859.png" crc="101943729" seo="true" ref="résumé">
+      <caption webpage="résumé" alt=""/>
+    </file>
+    <file name="old-navy.png" crc="4088694855" seo="true" ref="résumé">
+      <caption webpage="résumé" alt=""/>
+      <caption webpage="résumé" alt=""/>
+    </file>
+    <file name="the-commons-crop-u2128.png" crc="533968292" seo="true" ref="résumé">
+      <caption webpage="résumé" alt=""/>
+    </file>
+    <file name="sjl.png" crc="190551250" seo="true" ref="résumé">
+      <caption webpage="résumé" alt=""/>
+      <caption webpage="résumé" alt=""/>
+    </file>
+    <file name="work.png" crc="230530136" seo="true" ref="résumé">
+      <caption webpage="résumé" alt=""/>
+      <caption webpage="résumé" alt=""/>
+    </file>
+    <file name="heartbeat245x105.png" crc="3902002742" seo="true" ref="résumé">
+      <caption webpage="résumé" alt=""/>
+    </file>
+    <file name="net-sec.png" crc="523014095" seo="true" ref="résumé">
+      <caption webpage="résumé" alt=""/>
+      <caption webpage="résumé" alt=""/>
+    </file>
+    <file name="sci-fair.png" crc="129185814" seo="true" ref="résumé">
+      <caption webpage="résumé" alt=""/>
+      <caption webpage="résumé" alt=""/>
+    </file>
+    <file name="deans-list.png" crc="189670887" seo="true" ref="résumé">
+      <caption webpage="résumé" alt=""/>
+      <caption webpage="résumé" alt=""/>
+    </file>
+    <file name="the-commons.png" crc="507345453" seo="true" ref="résumé">
+      <caption webpage="résumé" alt=""/>
+    </file>
+    <file name="type.png" crc="4029011827" seo="true" ref="résumé">
+      <caption webpage="résumé" alt=""/>
+    </file>
+    <file name="heartbeat166x71.png" crc="4145444612" seo="true" ref="résumé">
+      <caption webpage="résumé" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="206536468" seo="true" mt="1533519496994" redirect="true"/>
+  <file name="photography.html" crc="141466170" seo="true" mt="1533519496994" redirect="true"/>
+  <file name="calligraphy.html" crc="437983707" seo="true" mt="1533519496994" redirect="true"/>
+  <file name="contact.html" crc="266026158" seo="true" mt="1533519496994" redirect="true"/>
+  <file name="design.html" crc="475962919" seo="true" mt="1533519496994" redirect="true"/>
+  <file name="résumé.html" crc="4086797594" seo="true" mt="1533519496994" redirect="true"/>
+  <file name="about.html" crc="3877035826" seo="true" mt="1533519496994" redirect="true"/>
+</manifest>
